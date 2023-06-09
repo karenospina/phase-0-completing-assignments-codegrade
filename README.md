@@ -6,7 +6,6 @@
 - Submit assignments in Canvas through CodeGrade
 
 ## Introduction
-
 During this course, you will work on various assignments as you learn to code.
 All assignments will be interactive pieces of curriculum that require some work.
 Some assignments may ask you to follow a set of instructions, while others will
